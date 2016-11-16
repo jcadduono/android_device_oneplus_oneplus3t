@@ -1,0 +1,4 @@
+ro.sf.lcd_density=440
+ro.hardware.keystore=msm8996
+persist.sys.usb.config=mtp,adb
+ro.display.series=OnePlus 3T
